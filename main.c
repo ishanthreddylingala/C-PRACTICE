@@ -389,7 +389,63 @@
         printf("shadow fighter \n");
        }
 
+        //! PRINT MR IF MAN OR MRS IF WOMAN
+    
+// DECLARE FIRST
+
+    // void man ();
+    // void woman ();
+
+    // char main () {
+    //     char ch;
+    //     printf("type w if you are woman or else m :");
+    //     scanf("%c" , &ch);
         
+    //     if(ch == 'w') {
+    //         woman();
+    //     }
+        
+    //     if(ch == 'm') {
+    //         man();
+    //     }
+    //     return 0;
+    // }
+
+    // void man () {
+    //     printf("mr");
+    // }
+    // void woman () {
+    //     printf("mrs");
+    // }
+
+
+    
+
+int sum(int a, int b);   // Function declaration (tells compiler that sum() exists)
+
+int main() {
+    int a, b;
+
+    printf("Enter first number: ");
+    scanf("%d", &a);
+
+    printf("Enter second number: ");
+    scanf("%d", &b);
+
+    int s = sum(a, b);   // Calls sum() and stores the returned value in s
+
+    printf("Sum is %d\n", s);
+
+    return 0;            // End of main()
+}
+
+// Function definition
+int sum(int x, int y) {
+    // x gets the value of a
+    // y gets the value of b
+
+    return x + y;        // Sends the result back to main()
+}
 
     
 
