@@ -2,15 +2,15 @@
 
 Daily C programming practice while learning from the **Apna College Complete C Course**.
 
-This repository documents my progress as I build strong programming fundamentals through consistent coding and problem-solving.    
-
+This repository documents my progress as I build strong programming fundamentals through consistent coding and problem-solving.               
+              
 ## Topics Covered
 
 * Variables, Data Types & Input/Output
 * Operators & Expressions
 * Conditional Statements
 * Loops
-* Functions & Recursion
+* Functions & Recursion           
 * Pointers
 * Arrays
 * Strings
@@ -19,7 +19,7 @@ This repository documents my progress as I build strong programming fundamentals
 * Dynamic Memory Allocation
 
 ## Repository Structure
-
+             
 ```text
 Chapter-01/
 Chapter-02/
@@ -52,7 +52,7 @@ Each chapter contains:
 * [ ] Chapter 1 - Variables, Data Types & Input/Output
 * [ ] Chapter 2 - Instructions & Operators
 * [ ] Chapter 3 - Conditional Statements
-* [ ] Chapter 4 - Loop Control Statements
+* [ ] Chapter 4 - Loop Control Statements           
 * [ ] Chapter 5 - Functions & Recursion
 * [ ] Chapter 6 - Pointers
 * [ ] Chapter 7 - Arrays
@@ -63,7 +63,7 @@ Each chapter contains:
 
 ## Reference
 
-Course: **Apna College – Complete C Programming**
+Course: **Apna College – Complete C Programming**             
 
 ---
 
