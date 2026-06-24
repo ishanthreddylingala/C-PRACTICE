@@ -448,5 +448,39 @@ int sum(int x, int y) {
 }
 
     
+//? new function print table
+// void mathtable(int n);  //declartion
+ 
+// int main() {
+// int n;
+// printf("n::");
+// scanf("%d" , &n);
+
+// mathtable(n);  // argument (actual parameter) takes value of n from int ,ain stuff scanf i mean
+
+
+// return 0;
+// }
+
+// // function def
+// void mathtable(int x) { // parameter (formal parametr) rtecieve from call function above
+//     for(int i=1; i<=10; i++) {
+//         printf(" %d \n " , i*x);
+//     }
+// }
+
+//! NEW FLOAT FUNCTION STUFF
+
+float squarearea(float side);
+
+int main() {
+
+float answer = squarearea(4);
+printf("%f" , answer);
+    return 0;
+}
+
+float squarearea(float side) {
+    return side*side;
 
         
