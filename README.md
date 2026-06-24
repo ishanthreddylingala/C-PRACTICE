@@ -37,7 +37,7 @@ Each chapter contains:
 ## Tools
 
 * Language: C
-* Compiler: GCC
+* Compiler: GCC                
 * Editor: VS Code
 
 ## Goals
@@ -49,22 +49,22 @@ Each chapter contains:
 
 ## Progress
 
-* [ ] Chapter 1 - Variables, Data Types & Input/Output
+* [ ] Chapter 1 - Variables, Data Types & Input/Output              
 * [ ] Chapter 2 - Instructions & Operators
 * [ ] Chapter 3 - Conditional Statements
-* [ ] Chapter 4 - Loop Control Statements           
-* [ ] Chapter 5 - Functions & Recursion
+* [ ] Chapter 4 - Loop Control Statements                   
+* [ ] Chapter 5 - Functions & Recursion                          
 * [ ] Chapter 6 - Pointers
-* [ ] Chapter 7 - Arrays
+* [ ] Chapter 7 - Arrays              
 * [ ] Chapter 8 - Strings
-* [ ] Chapter 9 - Structures
+* [ ] Chapter 9 - Structures           
 * [ ] Chapter 10 - File I/O
 * [ ] Chapter 11 - Dynamic Memory Allocation
 
 ## Reference
 
-Course: **Apna College – Complete C Programming**             
+Course: **Apna College – Complete C Programming**                                  
 
 ---
 
-*"Consistency beats intensity. One program at a time."*
+*"Consistency beats intensity. One program at a time."*             
