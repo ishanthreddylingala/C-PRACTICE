@@ -26,12 +26,12 @@ Chapter-02/
 Chapter-03/
 ...
 Chapter-11/
-```
+```              
 
 Each chapter contains:
 
 * Practice programs
-* Notes and examples
+* Notes and examples                  
 * Problem-solving exercises
 
 ## Tools
@@ -39,7 +39,7 @@ Each chapter contains:
 * Language: C
 * Compiler: GCC                
 * Editor: VS Code
-
+                
 ## Goals
 
 * Strengthen programming fundamentals
@@ -47,9 +47,9 @@ Each chapter contains:
 * Maintain consistency through daily practice
 * Build a solid foundation for Data Structures and Algorithms
 
-## Progress
-
-* [ ] Chapter 1 - Variables, Data Types & Input/Output              
+## Progress           
+ 
+* [ ] Chapter 1 - Variables, Data Types & Input/Output                                
 * [ ] Chapter 2 - Instructions & Operators
 * [ ] Chapter 3 - Conditional Statements
 * [ ] Chapter 4 - Loop Control Statements                   
