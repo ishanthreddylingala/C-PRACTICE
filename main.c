@@ -483,4 +483,39 @@ printf("%f" , answer);
 float squarearea(float side) {
     return side*side;
 
+//? RECURSIONS :sum f n 
+// int sum(int n);
+
+// int main() {
+//     int x;
+//     printf("x::");
+//     scanf("%d" , &x);
+//     int value= sum(x);
+// }
+// int sum(int n) {
+//     int sumNm1=sum(n-1);
+//     int sumN= sumNm1 + n;
+//     return sumN;
+// }
+
+//! factorial of n 
+int fact(int n);
+
+int main() {
+    int n;
+    printf("n::::");
+    scanf("%d" , &n);
+     n = fact(n);
+     printf("%d" , n);
+     return 0;
+
+}
+int fact(int n) {
+    if(n==1) {
+        return 1;
+    }
+   int factNm1 = fact(n-1);
+   int factN = factNm1*n;
+   return factN;
+}
         
