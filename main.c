@@ -518,4 +518,37 @@ int fact(int n) {
    int factN = factNm1*n;
    return factN;
 }
-        
+        //? conv from cel to fah
+
+    // float conv(float cel);
+
+    // int main() { 
+    // int cel;
+    // printf("c::");
+    // scanf("%d",  &cel);
+    // float fah = conv(cel);
+    // printf("%f" , fah);
+    // return 0;
+
+    // }
+    // float conv(float cel){
+    //     float  fah = 1.8*cel + 32;
+    //     return fah; 
+    // }
+
+// int calper(int sci, int mat, int san);
+
+// int main() {
+// int s= 90;
+// int m= 99;
+// int sa=98;
+//  int answer = calper(s,m,sa);
+//  printf("%d" , answer);
+//  return 0;
+// }
+
+//  int calper(int sci, int mat, int san) {
+//     return (sci+mat+san)/3;
+
+//  }
+
