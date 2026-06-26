@@ -2,14 +2,14 @@
 
 Daily C programming practice while learning from the **Apna College Complete C Course**.
 
-This repository documents my progress as I build strong programming fundamentals through consistent coding and problem-solving.               
+This repository documents my progress as I build strong programming fundamentals through consistent coding and problem-solving.                              
               
 ## Topics Covered
 
 * Variables, Data Types & Input/Output
 * Operators & Expressions
 * Conditional Statements
-* Loops
+* Loops                 
 * Functions & Recursion           
 * Pointers
 * Arrays
@@ -19,35 +19,35 @@ This repository documents my progress as I build strong programming fundamentals
 * Dynamic Memory Allocation
 
 ## Repository Structure
-             
+                           
 ```text
 Chapter-01/
 Chapter-02/
 Chapter-03/
 ...
 Chapter-11/
-```              
+```                          
 
 Each chapter contains:
 
 * Practice programs
 * Notes and examples                  
 * Problem-solving exercises
-
+               
 ## Tools
 
 * Language: C
 * Compiler: GCC                
 * Editor: VS Code
                 
-## Goals
+## Goals                 
 
 * Strengthen programming fundamentals
 * Develop problem-solving skills
 * Maintain consistency through daily practice
 * Build a solid foundation for Data Structures and Algorithms
 
-## Progress           
+## Progress                               
  
 * [ ] Chapter 1 - Variables, Data Types & Input/Output                                
 * [ ] Chapter 2 - Instructions & Operators
