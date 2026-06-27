@@ -49,11 +49,11 @@ Each chapter contains:
 
 ## Progress                               
  
-* [ ] Chapter 1 - Variables, Data Types & Input/Output                                
-* [ ] Chapter 2 - Instructions & Operators
-* [ ] Chapter 3 - Conditional Statements
-* [ ] Chapter 4 - Loop Control Statements                   
-* [ ] Chapter 5 - Functions & Recursion                          
+* [ ✔] Chapter 1 - Variables, Data Types & Input/Output                                
+* [ ✔ ] Chapter 2 - Instructions & Operators
+* [  ✔] Chapter 3 - Conditional Statements
+* [  ✔] Chapter 4 - Loop Control Statements                   
+* [  ✔] Chapter 5 - Functions & Recursion                          
 * [ ] Chapter 6 - Pointers
 * [ ] Chapter 7 - Arrays              
 * [ ] Chapter 8 - Strings
