@@ -552,3 +552,73 @@ int fact(int n) {
 
 //  }
 
+// //! POINTERS
+
+
+// int main() {
+
+//     int age = 67;      // Variable
+//     int *ptr = &age;   // Pointer stores address of age
+//     int new = *ptr;    // Get value from that address
+//  %p is used for adress only
+//  printf("%d \n", new);      // Print value stored in new (67)
+
+// printf("%d \n", age);      // Print value of age (67)
+
+// printf("%p \n", &age);     // Print address of age
+
+// printf("%p" \n, ptr);      // Print address stored in ptr (same as &age
+
+// printf("%p \n", &ptr);     // Print address of the pointer variable itself
+
+// printf("%d \n", age);      // Print value of age (67)
+
+// printf("%d \n", *ptr);     // Dereference ptr → get value at that address (67)
+
+// printf("%d \n", *(&age));  // &age = address of age, * gets value back → 67
+//     return 0;
+// }
+
+// //* BOTH ARE SAME DONT CONFUSE
+// first code type
+// int age = 22;
+// int *ptr = &age;
+// second code tuype
+// int *ptr , age;
+// ptr = &age;
+// ptr = 22;
+
+//? PROBLEM 
+// int x;
+// int *ptr;
+
+// ptr = &x;
+// *ptr =0; // x = 0
+
+// int main() {
+// printf("x = %d\n", x); //0
+// printf("*ptr = %d\n", *ptr); // 0
+
+// *ptr += 5; // x = 5
+// printf("x =%d\n", x); //5
+// printf("*ptr = %d\n", *ptr); // 5
+
+// (*ptr)++;
+// printf("x = %d\n", x); //6
+// printf("*ptr = %d\n", *ptr); // 6
+// return 0;
+// }
+
+//! Print the value of 'i' from its pointer to pointer
+int main() {
+   
+    int i = 42;
+    int *ptr = &i;
+    int **pptr = &ptr;
+
+    printf("%d\n", **pptr);
+
+    return 0;
+}
+
+
