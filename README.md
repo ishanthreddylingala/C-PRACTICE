@@ -34,7 +34,7 @@ Each chapter contains:
 * Notes and examples                  
 * Problem-solving exercises
                
-## Tools
+## Tools     
 
 * Language: C
 * Compiler: GCC                
