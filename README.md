@@ -4,7 +4,7 @@ Daily C programming practice while learning from the **Apna College Complete C C
 
 This repository documents my progress as I build strong programming fundamentals through consistent coding and problem-solving.                              
               
-## Topics Covered
+## Topics Covered    
 
 * Variables, Data Types & Input/Output
 * Operators & Expressions
