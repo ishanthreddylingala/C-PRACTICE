@@ -1,6 +1,6 @@
 # C Programming Journey
 
-Daily C programming practice while learning from the **Apna College Complete C Course**.
+Daily C programming practice while learning from the **Apna College Complete C Course**.      
 
 This repository documents my progress as I build strong programming fundamentals through consistent coding and problem-solving.                              
                             
