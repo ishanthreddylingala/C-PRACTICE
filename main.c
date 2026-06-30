@@ -24,7 +24,7 @@
 //     int age;
 //     printf("enter your age");
 //     scanf("%d", &age);
-//     printf("age is : %d",age);
+//     printf("age is \N : %d",age);
 //     return 0;
 // }
 
